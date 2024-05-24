@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "777240464585",
+    "project_id": "simple-app-baa5b",
+    "storage_bucket": "simple-app-baa5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777240464585:android:5f5d6a2a9a5e6602ca9118",
+        "android_client_info": {
+          "package_name": "com.sanjit49.simpleapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9eX88UK_-nMgBnjqGCQcK9-R6_NqkqYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
